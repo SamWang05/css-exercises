@@ -1,1 +1,33 @@
 /* Add CSS Styling */
+
+.redbkg {
+    background-color: pink;
+}
+
+.small {
+    font-size: 18px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.redbkg.small {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.redbkg.big {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    font-size: 36px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#number4 {
+    font-size: 28px;
+    background-color: lime;
+    font-weight: 700;
+}
