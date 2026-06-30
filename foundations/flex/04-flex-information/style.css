@@ -24,3 +24,46 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Solution */
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  gap: 30px;
+}
+
+.info-section .barberry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-section .chili {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-section .pepper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-section .saffron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-section .text {
+  display: flex;
+  text-align: center;
+}
